@@ -7,9 +7,9 @@
     "css-selector-tokenizer": "^0.5.1",
     "cssnano": "^2.1.0",
     "loader-utils": "~0.2.2",
-    "postcss": "^4.1.11",
+    "postcss": "git://github.com/shekhei/postcss.git",
     "postcss-modules-extract-imports": "0.0.5",
-    "postcss-modules-local-by-default": "0.0.11",
+    "postcss-modules-local-by-default": "git://github.com/shekhei/postcss-modules-local-by-default.git",
     "postcss-modules-scope": "0.0.8",
     "source-list-map": "^0.1.4"
   },
